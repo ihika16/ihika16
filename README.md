@@ -31,21 +31,22 @@
 
 ## 🚀 Featured Projects
 
+
+
 <p align="center">
-  <a href="https://github.com/ihika16/ScriptBot.AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihika16&repo=ScriptBot.AI&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/ihika16/FSD_QuickChat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihika16&repo=FSD_QuickChat&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ihika16/readershub-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihika16&repo=readershub-website&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ihika16/Expense-Tracker-FSD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihika16&repo=Expense-Tracker-FSD&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/ihika16/readershub-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihika16&repo=readershub-website&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ihika16/Aadhar-Face-Verification-System-Using-DIP-and-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihika16&repo=Aadhar-Face-Verification-System-Using-DIP-and-ML&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -84,7 +85,7 @@
 ---
 
 <h3 align="center">
-  ✨ Code | Create | Innovate | Repeat ✨
+  ✨ Crave | Code | Create | Innovate | Repeat ✨
 </h3>
 
 <p align="center">
