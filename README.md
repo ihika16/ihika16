@@ -55,9 +55,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihika16&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=ihika16&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
